@@ -5,9 +5,9 @@
 :Template: default
 :Base_template: base_default
 
-========================================================
+===================================================================================================================
 Data for: Suggesting the high-pressure route to metastable high entropy alloys with ultra-large lattice distortions
-========================================================
+===================================================================================================================
 
 *Boburjon Mukhamedov*\ :sup:`1` and *Björn Alling*\ :sup:`1`
 
