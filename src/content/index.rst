@@ -14,7 +14,7 @@ J. Appl. Phys. 136, 045903 (2024)
 https://doi.org/10.1063/5.0215928
 ===================================================================================================================
 
-*Boburjon Mukhamedov*\ :sup:`1` and *Björn Alling*\ :sup:`1`
+*B.O. Mukhamedov*\ :sup:`1` and *B. Alling*\ :sup:`1`
 
 | :sup:`1`\ Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.
 
